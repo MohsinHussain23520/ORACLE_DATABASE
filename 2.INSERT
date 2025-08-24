@@ -1,0 +1,6 @@
+INSERT INTO college (NAME	,ROLL_NO, DEPARTMENT,	DURATION	,ADDRESS,	PHONE_NO)
+ VALUES
+('Mohsin' ,23520,'CS',2023,'abcde',03001234567),
+('Ali' ,23540,'English',2023,'aqwe',0300123457),
+('Bilal' ,23552,'Urdu',2023,'nmbasd',03007894561),
+('Sameer',23505,'Math',2023,'hiozxc',03001593462);
